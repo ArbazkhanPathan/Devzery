@@ -17,6 +17,7 @@ Before running the application, ensure you have the following installed:
 - Node.js (for running the React frontend)
 - Python 3.x (for running the Flask backend)
 - PostgreSQL (for the database)
+- Create a database table named `testcases`
 
 ## Setup
 
